@@ -1,0 +1,1320 @@
+# LeetCode Top 150 Interview Questions - Progress Tracker
+
+    [[[✓--->CODE COMPLETED ]]]
+	[[[**--->DRY RUN THE CODE]]]
+	
+
+## Array / String (24 problems)
+[ ] 1. Merge Sorted Array (Easy)
+
+[✓**] 2. Remove Element (Easy)
+
+[✓**] 3. Remove Duplicates from Sorted Array (Easy)
+[✓**] 4. Remove Duplicates from Sorted Array II (Medium)
+[✓**] 5. Majority Element (Easy)
+[✓**] 6. Rotate Array (Medium)
+[✓**] 7. Best Time to Buy and Sell Stock (Easy)
+[] 8. Best Time to Buy and Sell Stock II (Medium)
+[✓**] 9. Jump Game (Medium)
+[ ] 10. Jump Game II (Medium)
+[ ] 11. H-Index (Medium)
+[ ] 12. Insert Delete GetRandom O(1) (Medium)
+
+[✓**] 13. Product of Array Except Self (Medium)
+
+[ ] 14. Gas Station (Medium)
+[ ] 15. Candy (Hard)
+[ ] 16. Trapping Rain Water (Hard)
+[ ] 17. Roman to Integer (Easy)
+[ ] 18. Integer to Roman (Medium)
+[ ] 19. Length of Last Word (Easy)
+
+[✓**] 20. Longest Common Prefix (Easy)
+
+[ ] 21. Reverse Words in a String (Medium)
+[ ] 22. Zigzag Conversion (Medium)
+[✓**] 23. Find the Index of the First Occurrence in a String (Easy)
+[ ] 24. Text Justification (Hard)
+
+## Two Pointers (5 problems)
+[✓**] 25. Valid Palindrome (Easy)
+[✓**] 26. Is Subsequence (Easy)
+[✓**] 27. Two Sum II - Input Array Is Sorted (Medium)
+[ ] 28. Container With Most Water (Medium)
+[ ] 29. 3Sum (Medium)
+
+## Sliding Window (4 problems)
+[ ] 30. Minimum Size Subarray Sum (Medium)
+[ ] 31. Longest Substring Without Repeating Characters (Medium)
+[ ] 32. Substring with Concatenation of All Words (Hard)
+[ ] 33. Minimum Window Substring (Hard)
+
+## Matrix (5 problems)
+[ ] 34. Valid Sudoku (Medium)
+[ ] 35. Spiral Matrix (Medium)
+[ ] 36. Rotate Image (Medium)
+[ ] 37. Set Matrix Zeroes (Medium)
+[ ] 38. Game of Life (Medium)
+
+## Hashmap (9 problems)
+[ ] 39. Ransom Note (Easy)
+[ ] 40. Isomorphic Strings (Easy)
+[ ] 41. Word Pattern (Easy)
+[ ] 42. Valid Anagram (Easy)
+[ ] 43. Group Anagrams (Medium)
+[ ] 44. Two Sum (Easy)
+[ ] 45. Happy Number (Easy)
+[ ] 46. Contains Duplicate II (Easy)
+[ ] 47. Longest Consecutive Sequence (Medium)
+
+## Intervals (4 problems)
+[ ] 48. Summary Ranges (Easy)
+[ ] 49. Merge Intervals (Medium)
+[ ] 50. Insert Interval (Medium)
+[ ] 51. Minimum Number of Arrows to Burst Balloons (Medium)
+
+## Stack (5 problems)
+[ ] 52. Valid Parentheses (Easy)
+[ ] 53. Simplify Path (Medium)
+[ ] 54. Min Stack (Medium)
+[ ] 55. Evaluate Reverse Polish Notation (Medium)
+[ ] 56. Basic Calculator (Hard)
+
+## Linked List (11 problems)
+[ ] 57. Linked List Cycle (Easy)
+[ ] 58. Add Two Numbers (Medium)
+[ ] 59. Merge Two Sorted Lists (Easy)
+[ ] 60. Copy List with Random Pointer (Medium)
+[ ] 61. Reverse Linked List II (Medium)
+[ ] 62. Reverse Nodes in k-Group (Hard)
+[ ] 63. Remove Nth Node From End of List (Medium)
+[ ] 64. Remove Duplicates from Sorted List II (Medium)
+[ ] 65. Rotate List (Medium)
+[ ] 66. Partition List (Medium)
+[ ] 67. LRU Cache (Medium)
+
+## Binary Tree General (14 problems)
+[ ] 68. Maximum Depth of Binary Tree (Easy)
+[ ] 69. Same Tree (Easy)
+[ ] 70. Invert Binary Tree (Easy)
+[ ] 71. Symmetric Tree (Easy)
+[ ] 72. Construct Binary Tree from Preorder and Inorder Traversal (Medium)
+[ ] 73. Construct Binary Tree from Inorder and Postorder Traversal (Medium)
+[ ] 74. Populating Next Right Pointers in Each Node II (Medium)
+[ ] 75. Flatten Binary Tree to Linked List (Medium)
+[ ] 76. Path Sum (Easy)
+[ ] 77. Sum Root to Leaf Numbers (Medium)
+[ ] 78. Binary Tree Maximum Path Sum (Hard)
+[ ] 79. Binary Search Tree Iterator (Medium)
+[ ] 80. Count Complete Tree Nodes (Easy)
+[ ] 81. Lowest Common Ancestor of a Binary Tree (Medium)
+
+## Binary Tree BFS (4 problems)
+[ ] 82. Binary Tree Right Side View (Medium)
+[ ] 83. Average of Levels in Binary Tree (Easy)
+[ ] 84. Binary Tree Level Order Traversal (Medium)
+[ ] 85. Binary Tree Zigzag Level Order Traversal (Medium)
+
+## Binary Search Tree (3 problems)
+[ ] 86. Minimum Absolute Difference in BST (Easy)
+[ ] 87. Kth Smallest Element in a BST (Medium)
+[ ] 88. Validate Binary Search Tree (Medium)
+
+## Graph General (6 problems)
+[ ] 89. Number of Islands (Medium)
+[ ] 90. Surrounded Regions (Medium)
+[ ] 91. Clone Graph (Medium)
+[ ] 92. Evaluate Division (Medium)
+[ ] 93. Course Schedule (Medium)
+[ ] 94. Course Schedule II (Medium)
+
+## Graph BFS (3 problems)
+[ ] 95. Snakes and Ladders (Medium)
+[ ] 96. Minimum Genetic Mutation (Medium)
+[ ] 97. Word Ladder (Hard)
+
+## Trie (3 problems)
+[ ] 98. Implement Trie (Prefix Tree) (Medium)
+[ ] 99. Design Add and Search Words Data Structure (Medium)
+[ ] 100. Word Search II (Hard)
+
+## Backtracking (7 problems)
+[ ] 101. Letter Combinations of a Phone Number (Medium)
+[ ] 102. Combinations (Medium)
+[ ] 103. Permutations (Medium)
+[ ] 104. Combination Sum (Medium)
+[ ] 105. N-Queens II (Hard)
+[ ] 106. Generate Parentheses (Medium)
+[ ] 107. Word Search (Medium)
+
+## Divide & Conquer (4 problems)
+[ ] 108. Convert Sorted Array to Binary Search Tree (Easy)
+[ ] 109. Sort List (Medium)
+[ ] 110. Construct Quad Tree (Medium)
+[ ] 111. Merge k Sorted Lists (Hard)
+
+## Kadane's Algorithm (2 problems)
+[ ] 112. Maximum Subarray (Medium)
+[ ] 113. Maximum Sum Circular Subarray (Medium)
+
+## Binary Search (7 problems)
+[ ] 114. Search Insert Position (Easy)
+[ ] 115. Search a 2D Matrix (Medium)
+[ ] 116. Find Peak Element (Medium)
+[ ] 117. Search in Rotated Sorted Array (Medium)
+[ ] 118. Find First and Last Position of Element in Sorted Array (Medium)
+[ ] 119. Find Minimum in Rotated Sorted Array (Medium)
+[ ] 120. Median of Two Sorted Arrays (Hard)
+
+## Heap (4 problems)
+[ ] 121. Kth Largest Element in an Array (Medium)
+[ ] 122. IPO (Hard)
+[ ] 123. Find K Pairs with Smallest Sums (Medium)
+[ ] 124. Find Median from Data Stream (Hard)
+
+## Bit Manipulation (6 problems)
+[ ] 125. Add Binary (Easy)
+[ ] 126. Reverse Bits (Easy)
+[ ] 127. Number of 1 Bits (Easy)
+[ ] 128. Single Number (Easy)
+[ ] 129. Single Number II (Medium)
+[ ] 130. Bitwise AND of Numbers Range (Medium)
+
+## Math (6 problems)
+[ ] 131. Palindrome Number (Easy)
+[ ] 132. Plus One (Easy)
+[ ] 133. Factorial Trailing Zeroes (Medium)
+[ ] 134. Sqrt(x) (Easy)
+[ ] 135. Pow(x, n) (Medium)
+[ ] 136. Max Points on a Line (Hard)
+
+## 1D DP (5 problems)
+[ ] 137. Climbing Stairs (Easy)
+[ ] 138. House Robber (Medium)
+[ ] 139. Word Break (Medium)
+[ ] 140. Coin Change (Medium)
+[ ] 141. Longest Increasing Subsequence (Medium)
+
+## Multidimensional DP (9 problems)
+[ ] 142. Triangle (Medium)
+[ ] 143. Minimum Path Sum (Medium)
+[ ] 144. Unique Paths II (Medium)
+[ ] 145. Longest Palindromic Substring (Medium)
+[ ] 146. Interleaving String (Medium)
+[ ] 147. Edit Distance (Medium)
+[ ] 148. Best Time to Buy and Sell Stock III (Hard)
+[ ] 149. Best Time to Buy and Sell Stock IV (Hard)
+[ ] 150. Maximal Square (Medium)
+
+---
+## Progress Summary
+Total Problems: 150
+Completed: 0
+Remaining: 150
+
+Instructions: Replace [ ] with [✓] or [x] when you complete a problem!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# DESIGN AND ANALYSIS OF ALGORITHMS - 150 MCQ QUESTIONS
+
+## MODULE 1: INTRODUCTION TO ALGORITHMS & TIME/SPACE COMPLEXITY (30 Questions)
+
+### 1. An algorithm is
+A) A program  
+B) A language  
+C) A finite set of steps  
+D) A compiler  
+**✓ Ans: C**
+
+### 2. The time complexity of linear search is
+A) O(1)  
+B) O(log n)  
+C) O(n)  
+D) O(n²)  
+**✓ Ans: C**
+
+### 3. The best case time complexity of bubble sort is
+A) O(n)  
+B) O(n log n)  
+C) O(n²)  
+D) O(log n)  
+**✓ Ans: A**
+
+### 4. Big-O notation represents
+A) Best case  
+B) Average case  
+C) Worst case  
+D) All cases  
+**✓ Ans: C**
+
+### 5. The space complexity of recursive fibonacci is
+A) O(1)  
+B) O(n)  
+C) O(log n)  
+D) O(n²)  
+**✓ Ans: B**
+
+### 6. Which is faster: O(n) or O(n²)?
+A) O(n)  
+B) O(n²)  
+C) Both are same  
+D) Cannot determine  
+**✓ Ans: A**
+
+### 7. The time complexity of binary search is
+A) O(n)  
+B) O(log n)  
+C) O(n log n)  
+D) O(n²)  
+**✓ Ans: B**
+
+### 8. Asymptotic notation is used to describe
+A) Exact time  
+B) Growth rate  
+C) Memory usage  
+D) CPU cycles  
+**✓ Ans: B**
+
+### 9. The worst case time complexity of quick sort is
+A) O(n log n)  
+B) O(n²)  
+C) O(n)  
+D) O(log n)  
+**✓ Ans: B**
+
+### 10. Big-Ω notation represents
+A) Upper bound  
+B) Lower bound  
+C) Average bound  
+D) Exact bound  
+**✓ Ans: B**
+
+### 11. The time complexity of insertion sort in best case is
+A) O(1)  
+B) O(n)  
+C) O(n log n)  
+D) O(n²)  
+**✓ Ans: B**
+
+### 12. GCD can be efficiently calculated using
+A) Linear search  
+B) Euclidean algorithm  
+C) Binary search  
+D) Bubble sort  
+**✓ Ans: B**
+
+### 13. The space complexity of merge sort is
+A) O(1)  
+B) O(log n)  
+C) O(n)  
+D) O(n²)  
+**✓ Ans: C**
+
+### 14. Master theorem is used for
+A) Iterative algorithms  
+B) Recursive algorithms  
+C) Greedy algorithms  
+D) Dynamic programming  
+**✓ Ans: B**
+
+### 15. The time complexity of accessing an array element is
+A) O(1)  
+B) O(n)  
+C) O(log n)  
+D) O(n²)  
+**✓ Ans: A**
+
+### 16. Amortized analysis is used for
+A) Single operation  
+B) Sequence of operations  
+C) Recursive calls  
+D) Space complexity  
+**✓ Ans: B**
+
+### 17. The recurrence T(n) = 2T(n/2) + n has time complexity
+A) O(n)  
+B) O(n log n)  
+C) O(n²)  
+D) O(log n)  
+**✓ Ans: B**
+
+### 18. Substitution method is used in
+A) Sorting  
+B) Searching  
+C) Solving recurrences  
+D) Graph traversal  
+**✓ Ans: C**
+
+### 19. The time complexity of matrix multiplication is
+A) O(n)  
+B) O(n²)  
+C) O(n³)  
+D) O(n log n)  
+**✓ Ans: C**
+
+### 20. KMP algorithm is used for
+A) Sorting  
+B) String matching  
+C) Searching  
+D) Graph traversal  
+**✓ Ans: B**
+
+### 21. The time complexity of Rabin-Karp algorithm is
+A) O(n)  
+B) O(m+n)  
+C) O(mn)  
+D) O(n²)  
+**✓ Ans: B**
+
+### 22. Z-algorithm is used for
+A) Sorting  
+B) Pattern matching  
+C) Hashing  
+D) Searching  
+**✓ Ans: B**
+
+### 23. The best sorting algorithm for nearly sorted data is
+A) Quick sort  
+B) Merge sort  
+C) Insertion sort  
+D) Heap sort  
+**✓ Ans: C**
+
+### 24. Tower of Hanoi has time complexity
+A) O(n)  
+B) O(2ⁿ)  
+C) O(n²)  
+D) O(n log n)  
+**✓ Ans: B**
+
+### 25. Modular arithmetic is used in
+A) Cryptography  
+B) Sorting  
+C) Searching  
+D) Graph theory  
+**✓ Ans: A**
+
+### 26. The time complexity of sieve of Eratosthenes is
+A) O(n)  
+B) O(n log n)  
+C) O(n log log n)  
+D) O(n²)  
+**✓ Ans: C**
+
+### 27. LCM(a,b) × GCD(a,b) equals
+A) a + b  
+B) a - b  
+C) a × b  
+D) a / b  
+**✓ Ans: C**
+
+### 28. The aggregate analysis is a type of
+A) Time complexity  
+B) Space complexity  
+C) Amortized analysis  
+D) Best case analysis  
+**✓ Ans: C**
+
+### 29. Base conversion uses
+A) Division method  
+B) Modular arithmetic  
+C) Both A and B  
+D) None  
+**✓ Ans: C**
+
+### 30. The recursion tree method is used to solve
+A) Iterative algorithms  
+B) Recurrence relations  
+C) Sorting problems  
+D) Graph problems  
+**✓ Ans: B**
+
+---
+
+## MODULE 2: DATA STRUCTURES, DIVIDE AND CONQUER, GREEDY (30 Questions)
+
+### 31. Stack follows which principle?
+A) FIFO  
+B) LIFO  
+C) Random  
+D) Priority  
+**✓ Ans: B**
+
+### 32. Queue follows which principle?
+A) FIFO  
+B) LIFO  
+C) Random  
+D) None  
+**✓ Ans: A**
+
+### 33. Time complexity of push operation in stack is
+A) O(1)  
+B) O(n)  
+C) O(log n)  
+D) O(n²)  
+**✓ Ans: A**
+
+### 34. In a circular linked list, the last node points to
+A) NULL  
+B) First node  
+C) Previous node  
+D) Itself  
+**✓ Ans: B**
+
+### 35. Divide and conquer strategy is used in
+A) Linear search  
+B) Binary search  
+C) Bubble sort  
+D) Insertion sort  
+**✓ Ans: B**
+
+### 36. Merge sort uses which technique?
+A) Greedy  
+B) Dynamic programming  
+C) Divide and conquer  
+D) Backtracking  
+**✓ Ans: C**
+
+### 37. The time complexity of merge sort is
+A) O(n)  
+B) O(n log n)  
+C) O(n²)  
+D) O(log n)  
+**✓ Ans: B**
+
+### 38. Which sorting algorithm is stable?
+A) Quick sort  
+B) Heap sort  
+C) Merge sort  
+D) Selection sort  
+**✓ Ans: C**
+
+### 39. Huffman coding is used for
+A) Sorting  
+B) Searching  
+C) Data compression  
+D) Encryption  
+**✓ Ans: C**
+
+### 40. Huffman coding uses which technique?
+A) Dynamic programming  
+B) Greedy  
+C) Backtracking  
+D) Divide and conquer  
+**✓ Ans: B**
+
+### 41. In greedy method, we make choice that is
+A) Globally optimal  
+B) Locally optimal  
+C) Random  
+D) Fixed  
+**✓ Ans: B**
+
+### 42. Activity selection problem uses
+A) Greedy method  
+B) Dynamic programming  
+C) Backtracking  
+D) Branch and bound  
+**✓ Ans: A**
+
+### 43. Job sequencing with deadlines uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Recursion  
+**✓ Ans: A**
+
+### 44. Fractional knapsack uses which technique?
+A) Greedy  
+B) Dynamic programming  
+C) Backtracking  
+D) Branch and bound  
+**✓ Ans: A**
+
+### 45. In doubly linked list, each node contains
+A) One pointer  
+B) Two pointers  
+C) Three pointers  
+D) No pointer  
+**✓ Ans: B**
+
+### 46. Hash table uses which collision resolution technique?
+A) Chaining  
+B) Open addressing  
+C) Both A and B  
+D) None  
+**✓ Ans: C**
+
+### 47. Linear probing is a technique of
+A) Hashing  
+B) Sorting  
+C) Searching  
+D) Graph traversal  
+**✓ Ans: A**
+
+### 48. The load factor in hashing is
+A) n/m  
+B) m/n  
+C) n×m  
+D) n-m  
+**✓ Ans: A**
+
+### 49. Quadratic probing uses
+A) Linear function  
+B) Quadratic function  
+C) Cubic function  
+D) Exponential function  
+**✓ Ans: B**
+
+### 50. Double hashing uses
+A) One hash function  
+B) Two hash functions  
+C) Three hash functions  
+D) No hash function  
+**✓ Ans: B**
+
+### 51. Which is NOT a greedy algorithm?
+A) Dijkstra's algorithm  
+B) Prim's algorithm  
+C) Bellman-Ford algorithm  
+D) Kruskal's algorithm  
+**✓ Ans: C**
+
+### 52. Strassen's matrix multiplication has complexity
+A) O(n³)  
+B) O(n^2.81)  
+C) O(n²)  
+D) O(n log n)  
+**✓ Ans: B**
+
+### 53. Selection sort has time complexity
+A) O(n)  
+B) O(n log n)  
+C) O(n²)  
+D) O(log n)  
+**✓ Ans: C**
+
+### 54. Radix sort is an example of
+A) Comparison sort  
+B) Non-comparison sort  
+C) Stable sort only  
+D) Unstable sort  
+**✓ Ans: B**
+
+### 55. Counting sort has time complexity
+A) O(n+k)  
+B) O(n log n)  
+C) O(n²)  
+D) O(n)  
+**✓ Ans: A**
+
+### 56. Which data structure is used in BFS?
+A) Stack  
+B) Queue  
+C) Tree  
+D) Graph  
+**✓ Ans: B**
+
+### 57. Which data structure is used in DFS?
+A) Stack  
+B) Queue  
+C) Priority queue  
+D) Heap  
+**✓ Ans: A**
+
+### 58. Infix to postfix conversion uses
+A) Queue  
+B) Stack  
+C) Tree  
+D) Graph  
+**✓ Ans: B**
+
+### 59. Disjoint sets use which operation?
+A) Union  
+B) Find  
+C) Both A and B  
+D) None  
+**✓ Ans: C**
+
+### 60. Union-Find uses which optimization?
+A) Path compression  
+B) Union by rank  
+C) Both A and B  
+D) None  
+**✓ Ans: C**
+
+---
+
+## MODULE 3: DYNAMIC PROGRAMMING (30 Questions)
+
+### 61. Dynamic programming is used when problem has
+A) Optimal substructure  
+B) Overlapping subproblems  
+C) Both A and B  
+D) None  
+**✓ Ans: C**
+
+### 62. 0/1 knapsack uses which technique?
+A) Greedy  
+B) Dynamic programming  
+C) Backtracking  
+D) Divide and conquer  
+**✓ Ans: B**
+
+### 63. Matrix chain multiplication uses
+A) Greedy  
+B) Dynamic programming  
+C) Backtracking  
+D) Branch and bound  
+**✓ Ans: B**
+
+### 64. Longest common subsequence uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Recursion only  
+**✓ Ans: B**
+
+### 65. The time complexity of 0/1 knapsack is
+A) O(n)  
+B) O(nW)  
+C) O(n²)  
+D) O(2ⁿ)  
+**✓ Ans: B**
+
+### 66. Fibonacci using DP has time complexity
+A) O(n)  
+B) O(2ⁿ)  
+C) O(n²)  
+D) O(log n)  
+**✓ Ans: A**
+
+### 67. Coin change problem uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Recursion  
+**✓ Ans: B**
+
+### 68. Edit distance uses which technique?
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Divide and conquer  
+**✓ Ans: B**
+
+### 69. All pairs shortest path uses
+A) Dijkstra  
+B) Floyd-Warshall  
+C) Bellman-Ford  
+D) Prim's  
+**✓ Ans: B**
+
+### 70. Floyd-Warshall has time complexity
+A) O(n²)  
+B) O(n³)  
+C) O(n)  
+D) O(n log n)  
+**✓ Ans: B**
+
+### 71. Traveling salesman problem uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) All of these  
+**✓ Ans: D**
+
+### 72. Optimal binary search tree uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Recursion  
+**✓ Ans: B**
+
+### 73. Memoization is a
+A) Top-down approach  
+B) Bottom-up approach  
+C) Greedy approach  
+D) Random approach  
+**✓ Ans: A**
+
+### 74. Tabulation is a
+A) Top-down approach  
+B) Bottom-up approach  
+C) Greedy approach  
+D) Recursive approach  
+**✓ Ans: B**
+
+### 75. Longest increasing subsequence has complexity
+A) O(n)  
+B) O(n log n)  
+C) O(n²)  
+D) Both B and C  
+**✓ Ans: D**
+
+### 76. Rod cutting problem uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Branch and bound  
+**✓ Ans: B**
+
+### 77. Subset sum problem uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Both B and C  
+**✓ Ans: D**
+
+### 78. Bellman-Ford algorithm has complexity
+A) O(V)  
+B) O(VE)  
+C) O(V²)  
+D) O(E)  
+**✓ Ans: B**
+
+### 79. Bellman-Ford can detect
+A) Positive cycles  
+B) Negative cycles  
+C) All cycles  
+D) No cycles  
+**✓ Ans: B**
+
+### 80. Which cannot be solved by DP?
+A) LCS  
+B) 0/1 knapsack  
+C) Halting problem  
+D) Matrix chain  
+**✓ Ans: C**
+
+### 81. Longest palindromic subsequence uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Recursion  
+**✓ Ans: B**
+
+### 82. Partition problem uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Branch and bound  
+**✓ Ans: B**
+
+### 83. Egg dropping puzzle uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Recursion only  
+**✓ Ans: B**
+
+### 84. Principle of optimality is used in
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Branch and bound  
+**✓ Ans: B**
+
+### 85. Bitonic tour uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Recursion  
+**✓ Ans: B**
+
+### 86. Assembly line scheduling uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Branch and bound  
+**✓ Ans: B**
+
+### 87. Bitwise operations have complexity
+A) O(1)  
+B) O(n)  
+C) O(log n)  
+D) O(n²)  
+**✓ Ans: A**
+
+### 88. AND operation of 5 and 3 is
+A) 1  
+B) 3  
+C) 5  
+D) 7  
+**✓ Ans: A**
+
+### 89. XOR of two same numbers is
+A) 0  
+B) 1  
+C) The number  
+D) 2×number  
+**✓ Ans: A**
+
+### 90. Left shift by 1 is equivalent to
+A) Multiply by 2  
+B) Divide by 2  
+C) Add 1  
+D) Subtract 1  
+**✓ Ans: A**
+
+---
+
+## MODULE 4: RECURSION, BACKTRACKING, GREEDY (30 Questions)
+
+### 91. Base case in recursion is used to
+A) Start recursion  
+B) Stop recursion  
+C) Continue recursion  
+D) None  
+**✓ Ans: B**
+
+### 92. Tail recursion can be optimized to
+A) Loop  
+B) Iteration  
+C) Both A and B  
+D) None  
+**✓ Ans: C**
+
+### 93. N-Queens problem uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Divide and conquer  
+**✓ Ans: C**
+
+### 94. Time complexity of N-Queens is
+A) O(n!)  
+B) O(n²)  
+C) O(n)  
+D) O(2ⁿ)  
+**✓ Ans: A**
+
+### 95. Sudoku solver uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Branch and bound  
+**✓ Ans: C**
+
+### 96. Graph coloring uses
+A) Greedy  
+B) Backtracking  
+C) Both A and B  
+D) DP  
+**✓ Ans: C**
+
+### 97. Hamiltonian cycle uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Divide and conquer  
+**✓ Ans: C**
+
+### 98. Rat in a maze uses
+A) BFS  
+B) DFS  
+C) Backtracking  
+D) DP  
+**✓ Ans: C**
+
+### 99. Sum of subsets uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Branch and bound  
+**✓ Ans: C**
+
+### 100. Word search in grid uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Hashing  
+**✓ Ans: C**
+
+### 101. Backtracking is a refined form of
+A) Greedy  
+B) DP  
+C) Brute force  
+D) Divide and conquer  
+**✓ Ans: C**
+
+### 102. Which uses pruning?
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Linear search  
+**✓ Ans: C**
+
+### 103. Factorial using recursion has complexity
+A) O(1)  
+B) O(n)  
+C) O(n²)  
+D) O(2ⁿ)  
+**✓ Ans: B**
+
+### 104. Fibonacci using recursion has complexity
+A) O(n)  
+B) O(2ⁿ)  
+C) O(n²)  
+D) O(log n)  
+**✓ Ans: B**
+
+### 105. Quick sort uses
+A) Recursion  
+B) Iteration  
+C) Both  
+D) None  
+**✓ Ans: A**
+
+### 106. Tower of Hanoi uses
+A) Iteration  
+B) Recursion  
+C) Greedy  
+D) DP  
+**✓ Ans: B**
+
+### 107. Binary tree traversal uses
+A) Iteration  
+B) Recursion  
+C) Both A and B  
+D) None  
+**✓ Ans: C**
+
+### 108. DFS uses
+A) Stack  
+B) Recursion  
+C) Both A and B  
+D) Queue  
+**✓ Ans: C**
+
+### 109. Prim's algorithm is used for
+A) Shortest path  
+B) MST  
+C) Topological sort  
+D) Cycle detection  
+**✓ Ans: B**
+
+### 110. Kruskal's algorithm uses
+A) Greedy  
+B) Union-Find  
+C) Both A and B  
+D) DP  
+**✓ Ans: C**
+
+### 111. Dijkstra's algorithm uses
+A) Greedy  
+B) DP  
+C) Backtracking  
+D) Divide and conquer  
+**✓ Ans: A**
+
+### 112. Dijkstra cannot handle
+A) Positive weights  
+B) Negative weights  
+C) Zero weights  
+D) Integer weights  
+**✓ Ans: B**
+
+### 113. MST using Prim's has complexity
+A) O(E log V)  
+B) O(V²)  
+C) Both A and B  
+D) O(V)  
+**✓ Ans: C**
+
+### 114. Kruskal's algorithm has complexity
+A) O(E log E)  
+B) O(V²)  
+C) O(V)  
+D) O(E)  
+**✓ Ans: A**
+
+### 115. Which is faster for dense graphs?
+A) Prim's  
+B) Kruskal's  
+C) Both same  
+D) Cannot determine  
+**✓ Ans: A**
+
+### 116. Single source shortest path uses
+A) Dijkstra  
+B) Bellman-Ford  
+C) Both A and B  
+D) Floyd-Warshall  
+**✓ Ans: C**
+
+### 117. Job sequencing sorts jobs by
+A) Profit  
+B) Deadline  
+C) Job number  
+D) Time  
+**✓ Ans: A**
+
+### 118. Optimal merge pattern uses
+A) Stack  
+B) Queue  
+C) Min heap  
+D) Max heap  
+**✓ Ans: C**
+
+### 119. Greedy choice property means
+A) Local optimum leads to global optimum  
+B) Global optimum leads to local optimum  
+C) Random choice  
+D) Fixed choice  
+**✓ Ans: A**
+
+### 120. Comparison with DP: Greedy is
+A) Slower  
+B) Faster  
+C) Same  
+D) Cannot compare  
+**✓ Ans: B**
+
+---
+
+## MODULE 5: GRAPH ALGORITHMS, BRANCH AND BOUND, NP-COMPLETENESS (30 Questions)
+
+### 121. A tree with n nodes has
+A) n edges  
+B) n-1 edges  
+C) n+1 edges  
+D) 2n edges  
+**✓ Ans: B**
+
+### 122. Binary tree with n nodes has maximum height
+A) n  
+B) n-1  
+C) log n  
+D) n/2  
+**✓ Ans: B**
+
+### 123. Complete binary tree with height h has nodes
+A) 2^h  
+B) 2^h - 1  
+C) 2^(h+1) - 1  
+D) h²  
+**✓ Ans: C**
+
+### 124. BST search has average complexity
+A) O(n)  
+B) O(log n)  
+C) O(1)  
+D) O(n²)  
+**✓ Ans: B**
+
+### 125. AVL tree is a
+A) Binary tree  
+B) Balanced BST  
+C) Complete tree  
+D) Perfect tree  
+**✓ Ans: B**
+
+### 126. Red-Black tree has maximum height
+A) log n  
+B) 2 log n  
+C) n  
+D) n log n  
+**✓ Ans: B**
+
+### 127. Splay tree uses
+A) Rotation  
+B) Splaying  
+C) Both A and B  
+D) None  
+**✓ Ans: C**
+
+### 128. BFS uses which data structure?
+A) Stack  
+B) Queue  
+C) Tree  
+D) Heap  
+**✓ Ans: B**
+
+### 129. DFS can be used to find
+A) Shortest path  
+B) Connected components  
+C) MST  
+D) Diameter  
+**✓ Ans: B**
+
+### 130. Topological sort is possible only for
+A) Cyclic graph  
+B) DAG  
+C) Complete graph  
+D) Connected graph  
+**✓ Ans: B**
+
+### 131. Topological sort uses
+A) BFS  
+B) DFS  
+C) Both A and B  
+D) Dijkstra  
+**✓ Ans: C**
+
+### 132. Cycle detection in directed graph uses
+A) BFS  
+B) DFS  
+C) Union-Find  
+D) Dijkstra  
+**✓ Ans: B**
+
+### 133. Cycle detection in undirected graph uses
+A) DFS  
+B) Union-Find  
+C) Both A and B  
+D) BFS  
+**✓ Ans: C**
+
+### 134. Strongly connected components uses
+A) Kosaraju's algorithm  
+B) Tarjan's algorithm  
+C) Both A and B  
+D) Prim's algorithm  
+**✓ Ans: C**
+
+### 135. Articulation point is a
+A) Vertex  
+B) Edge  
+C) Path  
+D) Cycle  
+**✓ Ans: A**
+
+### 136. Bridge in a graph is a
+A) Vertex  
+B) Edge  
+C) Path  
+D) Cycle  
+**✓ Ans: B**
+
+### 137. Trie is used for
+A) Sorting  
+B) String searching  
+C) Hashing  
+D) Graph traversal  
+**✓ Ans: B**
+
+### 138. Suffix array is used for
+A) Pattern matching  
+B) Sorting  
+C) Hashing  
+D) Searching  
+**✓ Ans: A**
+
+### 139. Branch and Bound uses
+A) DFS  
+B) BFS  
+C) Best-first search  
+D) All of these  
+**✓ Ans: D**
+
+### 140. LC (Least Cost) branch and bound uses
+A) Stack  
+B) Queue  
+C) Priority queue  
+D) Heap  
+**✓ Ans: C**
+
+### 141. FIFO branch and bound uses
+A) Stack  
+B) Queue  
+C) Priority queue  
+D) Tree  
+**✓ Ans: B**
+
+### 142. 0/1 knapsack using branch and bound has
+A) Better average case than DP  
+B) Worse average case than DP  
+C) Same as DP  
+D) Cannot compare  
+**✓ Ans: A**
+
+### 143. TSP using branch and bound uses
+A) Cost function  
+B) Bound function  
+C) Both A and B  
+D) None  
+**✓ Ans: C**
+
+### 144. P class problems are
+A) Polynomial time solvable  
+B) Non-polynomial time solvable  
+C) Unsolvable  
+D) Exponential time  
+**✓ Ans: A**
+
+### 145. NP class problems are
+A) Polynomial time verifiable  
+B) Polynomial time solvable  
+C) Unsolvable  
+D) Exponential only  
+**✓ Ans: A**
+
+### 146. NP-Complete problems are
+A) In NP  
+B) NP-Hard  
+C) Both A and B  
+D) None  
+**✓ Ans: C**
+
+### 147. Cook's theorem states that
+A) SAT is NP-Complete  
+B) SAT is in P  
+C) P = NP  
+D) P ≠ NP  
+**✓ Ans: A**
+
+### 148. Vertex cover problem is
+A) P  
+B) NP  
+C) NP-Complete  
+D) NP-Hard only  
+**✓ Ans: C**
+
+### 149. Clique problem is
+A) P  
+B) NP  
+C) NP-Complete  
+D) Solvable in O(n)  
+**✓ Ans: C**
+
+### 150. Subset sum is
+A) P  
+B) NP-Complete  
+C) Solvable in O(n)  
+D) Not in NP  
+**✓ Ans: B**
+
+---
+
+## IMPORTANT TIPS FOR EXAM:
+1. Focus on time complexities - most frequently asked
+2. Understand difference between Greedy and DP
+3. Know when to use which algorithm
+4. Remember Master Theorem
+5. Practice tree and graph problems
+6. Know sorting algorithms complexities
+7. Understand NP-Completeness basics
+8. Remember backtracking applications
+
+**Good luck with your exam! Practice these thoroughly for 30/30 marks!**
