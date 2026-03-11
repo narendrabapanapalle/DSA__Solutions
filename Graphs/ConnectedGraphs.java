@@ -34,7 +34,6 @@ class ConnectedGraphs{
 		 System.out.println();
 	   }
 	   }
-	
 	}
 	
 
@@ -55,7 +54,5 @@ class ConnectedGraphs{
 	  }
 	   g.connectedcom();
    }
-  
-   
 
 }

@@ -1,14 +1,12 @@
 import java.util.*;
 class Noofprovinces
 {
-    
 	 public void dfs(int city,int [][] adj, boolean[] visited){
 	    visited[city]=true;
 		for(int i=0;i<adj.length;i++){
 		    if(adj[city][i]==1 && (!visited[i])) dfs(i,adj,visited);
 		}
 	 }
-
 
      public int findCircleNum(int[][] adj) {
 	   int x=adj.length;

@@ -13,17 +13,15 @@ class GraphDfs{
 	  adj.get(x).add(y);
 	  adj.get(y).add(x);
 	}
+
 	public  void dfs(int start, boolean[] visited){
       visited[start]=true;
 	  System.out.print(start +" ");
 	  for(int neigh : adj.get(start)){
 	  if(!visited[neigh]) dfs(neigh, visited);
 	  }
-	
 	}
 	
-
-
 public static void main(String args[]){
    Scanner sc = new Scanner(System.in);
    System.out.println("Enter the number of vertices ");
